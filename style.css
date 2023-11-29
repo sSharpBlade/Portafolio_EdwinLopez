@@ -115,3 +115,22 @@ footer {
 #contacto i {
   margin-right: 10px;
 }
+
+#presentacion {
+  background-color: #f4f4f4;
+  padding: 50px;
+  text-align: center;
+}
+
+.presentacion-contenido {
+  max-width: 800px;
+  margin: 0 auto;
+}
+
+.presentacion-contenido h1 {
+  color: #333;
+}
+
+.presentacion-contenido p {
+  color: #555;
+}
