@@ -99,15 +99,15 @@ footer {
 
 #contacto .redes-sociales {
   display: flex;
-  flex-direction: row; /* Cambiado de 'column' a 'row' */
-  justify-content: space-around; /* Alinea los elementos a lo largo de la fila */
+  flex-direction: row; 
+  justify-content: space-around;
   align-items: center;
 }
 
 #contacto a {
   text-decoration: none;
   color: #333;
-  margin-right: 10px; /* Espaciado entre los enlaces */
+  margin-right: 10px;
   display: flex;
   align-items: center;
 }
